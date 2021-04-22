@@ -4,15 +4,15 @@
 
 ## Table of Contents 
   [Installation](#installation)\  
-  [Contributing](#contributing) \ 
+  [Contributing](#contributing)\ 
   [License](#license)\
-  [Questions](#questions)\  
+  [Questions](#questions)\
 
 ## Installation
   To install this application you can fork the repository and install it. Run an npm install to get the neccessary node modules and then run an npm start!
   
   [Click here for a technical breakdown of the code](https://drive.google.com/file/d/113EIyB9oxeWXogF-OYz78x_9mzfef6JM/view)\
-  [Click here to see how to set up the application](https://drive.google.com/file/d/1FcvbUe0MNe3qlJEWXstUIBkUvRzhvSnB/view)\  
+  [Click here to see how to set up the application](https://drive.google.com/file/d/1FcvbUe0MNe3qlJEWXstUIBkUvRzhvSnB/view)\ 
   [Click here to see this tested in Insomnia Core](https://drive.google.com/file/d/1Se7pVnnN3c1e37kTU8KRST45Eoqih0sy/view)\
 
 ## Contributers
